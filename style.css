@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url('https://fonts.googleapis.com/css?family=Unica+One');
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+body {
+    background-color: rgb(53, 53, 53);
+    color: whitesmoke;
+}
+
+.top {
+    text-align: center;
+}
+
+header {
+    font-family: Tangerine;
+    font-size: 72px;
+}
+
+
+.image {
+    float: left;
+    margin: 10px;
+}
+
+h3 {
+    font-family: Unica One;
+    font-size: 26px;
+}
+
+h2 {
+    font-family: Unica One;
+}
+
+.watch_description {
+    font-size: 16px;
+    font-family: Dosis;
+}
+
+.watch_container {
+    border: solid 5px #FDEFA6;
+    background-color: #1a1818;
+    border-radius: 13px;
+    padding: 16px;
+    clear: left;
+    margin: 50px;
+}
+
+footer {
+    font-family: Dosis;
+    font-size: 30px;
+    text-align: center;
+    padding: 25px;
+}
